@@ -1,7 +1,25 @@
-Welcome to my website
+Hey, welcome to the github repository of Ethery Discord Bot Website.
 
-It's hosted on github obvisly and I designed it with HTML5.
+It features :
 
+🦺 - All Mod commands
 
-My name name is inspiredover1™, i make discord bots and i'm starting on this website.
-I have used this before but obnly testing and I want to get better and get my discord bot more insights and into peoples server. I feel like my bot is good and worthy of being verified.
+⚽ - All Fun commands
+
+🎧 - All Music commands
+
+📄 - All Info commands
+
+📁 - All Misc commands
+
+--------------------------
+
+This was made by DevelopSuccess#0001 : (myself) on discord, you can get the server here : [server](https://discord.gg/HMmReacb)
+
+› Made with discord.bot and discord bot maker.
+
+› Made by DevelopSuccess#0001 on discord
+
+› Please do not copy anything in the website unless you put me in your credits.
+
+› This is protected by... me
