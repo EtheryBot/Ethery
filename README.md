@@ -14,7 +14,7 @@ It features :
 
 --------------------------
 
-This was made by DevelopSuccess#0001 : (myself) on discord, you can get the server here : [server](https://discord.gg/HMmReacb)
+This was made by DevelopSuccess#0001 : (myself) on discord, you can get the server here : [Support Server](https://discord.gg/HMmReacb)
 
 › Made with discord.bot and discord bot maker.
 
